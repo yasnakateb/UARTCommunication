@@ -1,4 +1,4 @@
-#  Serial Communication
+#  UART Communication
 
 UART is a universal serial communication protocol that transmits data serially between systems. It is an interface that sends out usually a byte at a time.
 This interface is a simple way to connect an FPGA to a PC. We just need a transmitter and receiver module. The transmitter is essentially a special
